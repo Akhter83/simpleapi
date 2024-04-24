@@ -9,7 +9,7 @@
  * This source file is subject to the license that is bundled
  * with this source code in the file LICENSE.
  *
- * @copyright Copyright 2019, Akhter Naheed   , ""  
+ * @copyright Copyright 2019, Akhter Naheed.   
  *
  */
 
