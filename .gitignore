@@ -1,0 +1,35 @@
+# Ignore composer packages directory
+/vendor/
+
+# Ignore composer generated autoload files
+/vendor/autoload.php
+
+# Ignore composer generated autoload files
+/vendor/composer/autoload_*.php
+
+# Ignore composer generated autoload files
+/vendor/composer/installed.json
+
+# Ignore PHPStorm IDE files
+/.idea/
+
+# Ignore any logs
+/logs/
+
+# Ignore any build files
+/build/
+
+# Ignore any temporary files
+/temp/
+
+# Ignore any session files
+/sessions/
+
+# Ignore any cache files
+/cache/
+
+# Ignore any environment configuration files
+.env
+
+# Ignore any local development configuration files
+/config/local.php
